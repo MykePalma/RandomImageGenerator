@@ -10,7 +10,6 @@ contentGenerator.Generate();
 ```
 
 ## Examples:
-
 ![1d79cc8d-2898-4d9d-a761-73b2f2d0b9ff](https://github.com/user-attachments/assets/e1f46456-62a9-44ac-8bca-53129beb6ddc)
 ![1024 OpenSimplex2S FBm 61f5c4c2-4d3f-4e04-8bb7-ac3b37a2a2ab](https://github.com/user-attachments/assets/38f2359e-1e59-4b2a-a448-7262e110b976)
 ![1024 OpenSimplex2S FBm 58a859d9-01a6-4147-aa4e-052b1d1269de](https://github.com/user-attachments/assets/431c6321-ec9f-4fbd-a792-a4f196fa5c9a)
