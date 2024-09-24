@@ -1,6 +1,15 @@
-Automatic random image Generator.
+# C# Automatic random noise image Generator.
 
-Examples:
+### Usage example:
+```
+ContentGenerator.NoiseImageGenerator contentGenerator = new(1024);
+// OR
+ContentGenerator.NoiseImageGenerator contentGenerator = new(1024, noiseType, fractalType, frequency, octaves);
+
+contentGenerator.Generate();
+```
+
+## Examples:
 
 ![1d79cc8d-2898-4d9d-a761-73b2f2d0b9ff](https://github.com/user-attachments/assets/e1f46456-62a9-44ac-8bca-53129beb6ddc)
 ![1024 OpenSimplex2S FBm 61f5c4c2-4d3f-4e04-8bb7-ac3b37a2a2ab](https://github.com/user-attachments/assets/38f2359e-1e59-4b2a-a448-7262e110b976)
